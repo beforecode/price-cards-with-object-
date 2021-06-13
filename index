@@ -1,0 +1,70 @@
+<div class="plan">
+	<div class="plan_mini_wrap">
+	<div class="plan_title">
+
+		</div>
+	<div class="plan_desc">
+	
+	</div>
+	<div class="plan_price">
+		<span class="weight_price"></span> $ / month
+	</div>
+	<div class="plan_details" id="plan_1">
+		<p class="d1">- 01 profile pic to edit.</p>
+		<p class="d2">- 01 cover or thumbnaild to edit.</p>
+		<p class="d3">- 0 videos to edit.</p>
+	</div>
+</div>
+	
+	<div class="plan_button">
+		<button >buy</button>
+	</div>
+</div>
+<!-- card end -->
+<!-- ----------------------------plan 02 -->
+<div class="plan">
+	<div class="plan_mini_wrap">
+	<div class="plan_title">
+
+		</div>
+	<div class="plan_desc">
+		
+	</div>
+	<div class="plan_price">
+		<span class="weight_price"></span> $ / month
+	</div>
+	<div class="plan_details" id="plan_2">
+		<p class="d1">- 03 profile pic to edit.</p>
+		<p class="d2">- 02 cover or thumbnaild to edit.</p>
+		<p class="d3">- 01 Video to montage.</p>
+	</div>
+</div>
+	<!-- ----------------------------plan 03 -->
+	<div class="plan_button">
+		<button id="startup_plan">buy</button>
+	</div>
+</div>
+<!-- card end -->
+<div class="plan">
+	<div class="plan_mini_wrap">
+	<div class="plan_title">
+
+		</div>
+	<div class="plan_desc">
+		
+	</div>
+	<div class="plan_price">
+		<span class="weight_price"></span> $ / month
+	</div>
+	<div class="plan_details" id="plan_3">
+		<p class="d1">- 10 profile pic to edit.</p>
+		<p class="d2">- 10 cover or thumbnaild to edit.</p>
+		<p class="d3">- 03 Videos to montage.</p>
+	</div>
+</div>
+	<div class="plan_button">
+		<button >buy</button>
+	</div>
+</div>
+<!-- card end -->
+</div>
