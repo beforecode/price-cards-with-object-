@@ -1,0 +1,78 @@
+.pricing {
+	position: relative;
+	/*height:100vh;	*/
+	background-color:#5f289e;
+	padding:60px 20px;
+}
+.plan_script {
+	/*position:absolute;*/
+	display:flex;
+	justify-content: space-around;
+	align-items:center;
+	/*height:100vh;*/
+	width:100%;
+	/*border:1px solid pink;*/
+	
+}
+.plan {
+/*	display: flex;
+	justify-content: center;
+	flex-direction:column;
+	align-items: center;*/
+	position:relative;
+	height:500px;
+	width:30%;
+	background-color:#fff;
+
+}
+.plan_mini_wrap  {
+/*	display:flex;
+	flex-direction:column;
+	justify-content: space-around;
+	align-items: center;*/
+	height:80%;
+	/*border:1px solid red;*/
+}
+.plan > div {
+	position:absolute;
+	width:100%;
+	text-align:center;
+}
+.plan_button {
+	bottom:0%;
+	height:20%;
+}
+.plan_button button {
+	width:90%;
+	background-color:#3c9945;
+	border:none;
+	/*padding:15px 0;*/
+	height:50%;
+	font-size:20px;
+	color:#fff;
+	cursor: pointer;
+	border-radius:50px;
+}
+.plan_title {
+	padding:5% 0;
+	color:#3c9945;
+	font-weight:bold;
+	font-size:18px;
+}
+.plan_desc {
+	padding:5% 0;
+}
+.plan_price {
+	padding:10% 0;
+}
+.plan_details {
+	padding:0 15px;
+	text-align:left;
+}
+.plan_details p {
+	padding:10px 0;
+}
+.plan span {
+	font-weight:bold;
+	font-size:60px;
+}
